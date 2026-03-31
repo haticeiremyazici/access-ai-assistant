@@ -13,7 +13,7 @@ AccessAI, Gemini 1.5 Flash modelini kullanarak bu karmaşık metinleri analiz ed
 ## Kullanılan Teknolojiler
 - **AI Model:** Google Gemini 1.5 Flash (Google AI Studio)
 - **Frontend:** HTML5, CSS3, JavaScript
-- **Yayınlama:** Lovable / Netlify
+- **Yayınlama:** Lovable
 
 ## Nasıl Çalıştırılır?
 1. Bu repoyu bilgisayarınıza indirin.
