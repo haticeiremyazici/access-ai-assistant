@@ -7,7 +7,7 @@ Resmi belgeler, tıbbi raporlar ve akademik metinler genellikle çok ağır ve k
 AccessAI, Gemini 1.5 Flash modelini kullanarak bu karmaşık metinleri analiz eder. Jargonları temizler, cümleleri kısaltır ve metni herkesin anlayabileceği "Basit Dil" (Plain Language) standartlarına göre yeniden yapılandırır.
 
 ## Canlı Demo
-- **Yayın Linki:** *[Henüz Yayınlanmadı]*
+- **Yayın Linki:** *https://access-your-brain.lovable.app*
 - **Demo Video:** *[Henüz Hazırlanmadı]*
 
 ## Kullanılan Teknolojiler
