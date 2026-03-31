@@ -1,0 +1,12 @@
+# AccessAI - Ürün Gereksinim Belgesi (PRD)
+
+## 1. Uygulama Tarifi
+Kullanıcı, karmaşık veya ağır dilli bir metni giriş kutusuna yapıştırır. [cite_start]"Sadeleştir" butonuna bastığında, Gemini API bu metni analiz eder ve bilişsel engeli olan bireylerin anlayabileceği "Basit Dil" standartlarına getirir[cite: 99].
+
+## 2. Temel Özellikler
+- [cite_start]Metin giriş alanı (Text Area)[cite: 114].
+- [cite_start]AI ile sadeleştirme butonu[cite: 114].
+- [cite_start]Sadeleştirilmiş metnin gösterildiği sonuç ekranı[cite: 114].
+
+## 3. Ekranlar
+- [cite_start]Ana Sayfa: Metin girişi ve sonuçların tek bir sayfada olduğu minimalist tasarım[cite: 99].

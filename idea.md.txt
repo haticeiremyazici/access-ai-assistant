@@ -1,0 +1,16 @@
+# AccessAI - Erişilebilir Dil Asistanı
+
+## Problem
+Resmi ve teknik belgelerin dili çok karmaşık olduğu için bilişsel engeli olan bireyler bilgiye erişemiyor.
+
+## Kullanıcı
+Bilişsel farklılığı olan bireyler ve yaşlılar.
+
+## AI'nın Rolü
+Gemini API ağır metinleri analiz eder ve çok basit bir dille yeniden yazar.
+
+## Rakip Durum
+Genel AI araçları var ama erişilebilirlik odaklı özel bir arayüz yok.
+
+## Başarı Kriteri
+Kullanıcının 10 saniyede anlaşılır bir çıktı alması.

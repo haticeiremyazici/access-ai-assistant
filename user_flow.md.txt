@@ -1,0 +1,5 @@
+# Kullanıcı Akışı
+1. [cite_start]Kullanıcı AccessAI web sitesini açar.
+2. [cite_start]Karmaşık resmi veya tıbbi metni giriş kutusuna yapıştırır.
+3. [cite_start]"Sadeleştir" butonuna tıklar.
+4. [cite_start]Sistem metni işler ve sonucu (basitleştirilmiş halini) kullanıcıya gösterir.

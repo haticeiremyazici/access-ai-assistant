@@ -1,0 +1,5 @@
+# Teknoloji Yığını (Tech Stack)
+- [cite_start]**Frontend:** HTML / CSS (Erişilebilirlik odaklı basit arayüz)[cite: 128, 133].
+- [cite_start]**Backend:** Python (Gemini API entegrasyonu için).
+- [cite_start]**AI Model:** Google Gemini 1.5 Flash (Hızlı ve etkili sadeleştirme).
+- [cite_start]**Yayınlama:** Lovable / Netlify (Hızlı canlıya alma)[cite: 128, 133].
